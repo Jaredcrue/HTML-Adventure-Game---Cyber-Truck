@@ -1,0 +1,25 @@
+
+body {
+    background-color: brown;
+}
+
+p {
+    text-align: center;
+    font-size: 2vw;
+    color: cornsilk;
+  
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+h1 {
+    text-align: center;
+    color: cornsilk;
+}
+
+a {
+    text-align: center;
+    color: cornsilk;
+}
+
